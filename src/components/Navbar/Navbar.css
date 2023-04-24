@@ -1,0 +1,7 @@
+.custom-navbar {
+    padding: 1rem;
+  }
+  .navbar-transparent {
+    background-color: transparent !important; 
+    color: white;
+  }
