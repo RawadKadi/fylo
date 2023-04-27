@@ -1,0 +1,22 @@
+.customButton {
+    background-color: #04CAE9;
+    border-radius: 40px;
+    color: white;
+    border: none;
+    padding: 30px 80px;
+    font-weight: bold;
+    transition: 0.5s;
+    width: 22%;
+  }
+  .customButton:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+  }
+  @media screen and (max-width: 308px) {
+    .getStartedBtn {
+      width: 100%;
+    }
+  }
+  

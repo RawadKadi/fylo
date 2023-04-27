@@ -1,0 +1,11 @@
+.navbarTransparent {
+  background-color: transparent !important;
+  padding: 1rem;
+}
+
+.transparentNavbarMenu {
+  background-color: transparent !important;
+}
+.burgerWhite span {
+  background-color: white !important;
+}

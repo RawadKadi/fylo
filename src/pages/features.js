@@ -2,8 +2,8 @@ import React from "react";
 
 const Features = (props) => {
   return (
-    <div>
-      <h1>Team page</h1>
+    <div style={{height:"100vh",marginTop:"200px"}}>
+      <h1>Features page</h1>
       <p>Value: {props.value}</p>
     </div>
   );
